@@ -4,3 +4,7 @@ Please feel free to push changes etc
 
 # Detail
 Initial readme created direct in Github
+
+# Updates
+## Update 1
+Added a simple HTML file
